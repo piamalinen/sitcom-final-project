@@ -22,4 +22,4 @@ My main humanities research questions were:
 2. What do these topics and changes tell us about current topics within popular media? How is this connected to (American) society in the 1990s-2010s on a larger scale?
 
 
-The full project is available in this repository under the name Final_Assingment.pdf.
+The full project is available in this repository under the name Final_Assignment.pdf.
